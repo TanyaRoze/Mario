@@ -1,4 +1,5 @@
-tiles = [
+
+const tiles = [
 	{
 		lvl: 1,
 		delta_mario: 29,

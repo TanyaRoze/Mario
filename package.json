@@ -1,0 +1,23 @@
+{
+  "name": "mario",
+  "version": "1.0.0",
+  "description": "**Mario** == Игра в жанре платформера  с горизонтальной прокруткой экрана, главным героем является американский водопроводчик итальянского происхождения Марио. Место действия игры —Грибной мир. === **Персонажи :**  •\tМарио – водопроводчик,  главный герой; •   Луи́джи - младший брат Марио, пропускает в следующий мир; •   Растения - Пираньи - пытаются нанести урон касанием. Растения-Пираньи не атакуют; === **Управление:** Движение вправо – (D); Движение влево – (A); Прыгнуть – (W); ===",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanyaRoze/Mario.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanyaRoze/Mario/issues"
+  },
+  "homepage": "https://github.com/TanyaRoze/Mario#readme"
+}
